@@ -70,18 +70,7 @@ function AdminLayout(props) {
           </ListItemButton>
         </ListItem>
 
-        <ListItem disablePadding>
-          <ListItemButton>
-            <ListItemIcon>
-              <Logout/>
-            </ListItemIcon>
-            <ListItemText
-              onClick={() =>{
-                localStorage.removeItem("token")
-                navigate("/login")} }
-              primary="Logout" />
-          </ListItemButton>
-        </ListItem>
+
 
       </List>
       <Divider />
