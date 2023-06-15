@@ -43,3 +43,97 @@ function App() {
 }
 
 export default App
+
+/*dipeshmalvia
+thapatechnical
+hackerstest.com	 
+
+
+
+
+npm
+npx
+nodejs
+react js -> javascript library
+github server by ms
+vite-> code makes fast, reduce loding time,
+hoisting
+callback function
+annonimious fun-> no name
+arrow function=>
+string interpolation ${} adds string and int
+````` backtrick                                  [solidityjs]
+
+for each -> CAN alter bt no return
+map -> animate and style
+filter -> filters
+
+terminal
+npm create vite@latest
+code .
+ctrl + ` terminal
+npm i 
+header footer unchanged called layout 
+mui.com and copy to ter layoit
+responsive drawer-> js
+react es7 extension
+
+app.jsx
+
+import ResponsiveDrawer from './Admin/Layout';
+
+
+function App() {
+  
+  return (
+    <>
+    <ResponsiveDrawer(//ctrl+space)/> 	
+    </>
+  );
+  
+  
+  
+  import ResponsiveAppBar from './user/UserLayout';
+
+
+function App() {
+  
+  return (
+    <>
+    <ResponsiveAppBar/>
+    </>
+  );
+  
+  userlayout
+  return (
+    <AppBar position="static">
+        <CssBaseline (//ctrl+space)/>
+		
+		ctrl+F change all
+		
+		rafce->reacr arrow function component export
+		npm i react-router-dom -> move from one page to other
+		ManishRegmi
+		Sujanchoudhary
+		in home file
+		npm i axios to load data from server,edit
+		
+		for admin login
+		reqres.in
+		
+		
+		GIT
+		to download git-scm.com
+		tracking
+		comit->staging
+		push
+		
+		
+		git init
+		git branch -M main
+ git remote add origin https://github.com/Binkelkharel/csit-workshop.git
+		git add .
+		git commit -m 'push'
+		 git push origin main
+		
+*/
